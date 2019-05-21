@@ -10,5 +10,5 @@ class ApplicationController < Sinatra::Base
   end
 end
 class Dog
-  
+
 end
